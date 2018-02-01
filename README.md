@@ -24,10 +24,6 @@ With this set up, you should now be able to run:
 
 This will process any Sass (SCSS) files, translate ES6 to ES5 and launch a web browser showing the current files. Making changes to the files should result in the page updating automatically.
 
-## Questions
-
-Drop me a line at [shramee.srivastav@gmail.com](shramee.srivastav@gmail.com) with any questions or thoughts. Pull requests welcomed!
-
 ### License
 
 MIT
